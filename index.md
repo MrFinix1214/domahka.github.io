@@ -41,11 +41,11 @@
     </div>
  
   <aside class="externalResourcesNav">
-    <div class="externalResources"> <a href="#" title="Download CV Link">СКАЧАТЬ САЙТ</a> </div>
+    <div class="externalResources"> <a href="#" title="Download">СКАЧАТЬ САЙТ</a> </div>
     <span class="stretch"></span>
-    <div class="externalResources"><a href="#" title="Behance Link">VK</a> </div>
+    <div class="externalResources"><a href="#" title="VK">VK</a> </div>
     <span class="stretch"></span>
-    <div class="externalResources"><a href="#" title="Github Link">GITHUB</a> </div>
+    <div class="externalResources"><a href="https://github.com/MrFinix1214" title="Github Link">GITHUB</a> </div>
   </aside>
 </section>
     </section>
